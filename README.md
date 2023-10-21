@@ -26,7 +26,7 @@ Discover a seamless messaging experience with our responsive canvas app. Enjoy a
 
 Version|Date|Comments
 -------|----|--------
-1.0|September 25, 2023|Initial release
+1.0|October 21, 2023|Initial release
 
 ## Prerequisites
 
